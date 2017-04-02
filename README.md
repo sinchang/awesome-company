@@ -10,6 +10,11 @@
 - 官网： http://www.imdada.cn
 - GitHub: https://github.com/NewDadaFE
 
+### 即刻
+- 简介：即刻是一款基于兴趣的极简信息推送工具。
+- 官网：https://www.ruguoapp.com/
+- GitHub：https://github.com/ruguoapp
+
 ## Contribution
 Welcome PR
 
