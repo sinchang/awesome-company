@@ -19,6 +19,11 @@
 - 简介：国内领先的微信公众平台开发服务商
 - 官网：http://www.weimob.com
 
+#### DaoCloud
+- 简介：企业级云计算领域的创新领导者
+- 官网：https://www.daocloud.io
+- GitHub: https://github.com/DaoCloud
+
 ## Contribution
 Welcome PR
 
