@@ -8,7 +8,7 @@
 #### 新达达
 - 简介：中国领先的本地即时物流和生鲜商超O2O平台
 - 官网： http://www.imdada.cn
-- GitHub: https://github.com/NewDadaFE
+- GitHub：https://github.com/NewDadaFE
 
 #### 即刻
 - 简介：即刻是一款基于兴趣的极简信息推送工具
@@ -22,7 +22,12 @@
 #### DaoCloud
 - 简介：企业级云计算领域的创新领导者
 - 官网：https://www.daocloud.io
-- GitHub: https://github.com/DaoCloud
+- GitHub：https://github.com/DaoCloud
+
+#### 流利说
+- 简介：一款好玩又有效的英语口语学习应用
+- 官网：http://www.liulishuo.com/
+- GitHub：https://github.com/lingochamp
 
 ## Contribution
 Welcome PR
