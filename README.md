@@ -34,6 +34,10 @@
 - 官网：https://pubu.im/
 - GitHub：https://github.com/pubuim
 
+#### 陆金所
+- 简介：投资理财、信贷等服务的首家网络投融资平台
+- 官网：https://www.lu.com/
+
 ## Contribution
 Welcome PR
 
