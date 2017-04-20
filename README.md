@@ -29,6 +29,11 @@
 - 官网：http://www.liulishuo.com/
 - GitHub：https://github.com/lingochamp
 
+#### 零信
+- 简介：适合工作、拥有无限扩展能力的企业沟通服务
+- 官网：https://pubu.im/
+- GitHub：https://github.com/pubuim
+
 ## Contribution
 Welcome PR
 
