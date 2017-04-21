@@ -38,6 +38,16 @@
 - 简介：投资理财、信贷等服务的首家网络投融资平台
 - 官网：https://www.lu.com/
 
+#### UCloud
+- 简介：中国最大的中立云计算服务商
+- 官网：https://www.ucloud.cn/
+- GitHub：https://github.com/ucloud
+
+#### Ping++
+- 简介：简单无忧的聚合支付云服务
+- 官网：https://www.pingxx.com
+- GitHub：https://github.com/PingPlusPlus
+
 ## Contribution
 Welcome PR
 
