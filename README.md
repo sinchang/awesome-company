@@ -53,6 +53,11 @@
 - 官网：http://www.hujiang.com/
 - GitHub：https://github.com/Hujiang-FE
 
+#### 美味不用等
+- 简介：中国最大的互联网餐厅服务商
+- 官网：http://www.mwee.cn/
+- GitHub：https://github.com/puscene
+
 ## Contribution
 Welcome PR
 
