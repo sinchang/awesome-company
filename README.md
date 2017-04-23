@@ -48,6 +48,11 @@
 - 官网：https://www.pingxx.com
 - GitHub：https://github.com/PingPlusPlus
 
+#### 沪江
+- 简介：专业的互联网学习平台
+- 官网：http://www.hujiang.com/
+- GitHub：https://github.com/Hujiang-FE
+
 ## Contribution
 Welcome PR
 
