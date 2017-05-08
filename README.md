@@ -56,14 +56,14 @@
 
 #### 美味不用等
 - 简介：中国最大的互联网餐厅服务商
-- 官网：https://www.youzan.com
-- GitHub：https://github.com/youzan
+- 官网：http://www.mwee.cn/
+- GitHub：https://github.com/puscene
 
 ### Hangzhou
 #### 有赞
 - 简介：有赞是一个商家服务公司，我们通过产品和服务，帮助互联网时代的生意人管店、管货、管客、管钱，让生意更好做
-- 官网： http://www.imdada.cn
-- GitHub：https://github.com/NewDadaFE
+- 官网：https://www.youzan.com
+- GitHub：https://github.com/youzan
 
 ## Contribution
 Welcome PR
