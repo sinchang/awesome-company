@@ -59,6 +59,10 @@
 - 官网：http://www.mwee.cn/
 - GitHub：https://github.com/puscene
 
+#### 简书
+- 简介：一个优质的创作社区
+- 官网：http://www.jianshu.com/
+
 ### Hangzhou
 #### 有赞
 - 简介：有赞是一个商家服务公司，我们通过产品和服务，帮助互联网时代的生意人管店、管货、管客、管钱，让生意更好做
