@@ -62,6 +62,7 @@
 #### 简书
 - 简介：一个优质的创作社区
 - 官网：http://www.jianshu.com/
+- GitHub: https://github.com/jianshucom
 
 ### Hangzhou
 #### 有赞
