@@ -64,6 +64,11 @@
 - 官网：http://www.jianshu.com/
 - GitHub: https://github.com/jianshucom
 
+#### 华尔街见闻
+- 简介：中国领先的互联网金融服务提供商
+- 官网：https://wallstreetcn.com
+- GitHub: https://github.com/wscn-FED
+
 ### Hangzhou
 #### 有赞
 - 简介：有赞是一个商家服务公司，我们通过产品和服务，帮助互联网时代的生意人管店、管货、管客、管钱，让生意更好做
