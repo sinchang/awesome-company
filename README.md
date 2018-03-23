@@ -6,6 +6,12 @@
 - [Hangzhou](#hangzhou) 
 
 ### Shanghai
+
+#### 贝米钱包
+- 简介：基于互联网的创新财富管理平台，专注于提供安全、便捷与高收益的理财服务。
+- 官网： https://www.bmqb.com/
+- GitHub：https://github.com/bmqb
+
 #### 新达达
 - 简介：中国领先的本地即时物流和生鲜商超O2O平台
 - 官网： http://www.imdada.cn
