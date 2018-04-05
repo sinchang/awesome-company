@@ -7,6 +7,11 @@
 
 ### Shanghai
 
+#### 拼多多
+- 简介：社交电商领导者。
+- 官网： https://www.pinduoduo.com/
+- GitHub：https://github.com/pinduoduo
+
 #### 贝米钱包
 - 简介：基于互联网的创新财富管理平台，专注于提供安全、便捷与高收益的理财服务。
 - 官网： https://www.bmqb.com/
