@@ -12,11 +12,6 @@
 - 官网： https://www.pinduoduo.com/
 - GitHub：https://github.com/pinduoduo
 
-#### 贝米钱包
-- 简介：基于互联网的创新财富管理平台，专注于提供安全、便捷与高收益的理财服务。
-- 官网： https://www.bmqb.com/
-- GitHub：https://github.com/bmqb
-
 #### 新达达
 - 简介：中国领先的本地即时物流和生鲜商超O2O平台
 - 官网： http://www.imdada.cn
@@ -41,10 +36,10 @@
 - 官网：http://www.liulishuo.com/
 - GitHub：https://github.com/lingochamp
 
-#### 零信
-- 简介：适合工作、拥有无限扩展能力的企业沟通服务
-- 官网：https://pubu.im/
-- GitHub：https://github.com/pubuim
+#### 积梦智能
+- 简介：是一家提供工业大数据平台及应用服务的大数据公司
+- 官网：https://jimeng.io
+- GitHub：https://github.com/jimengio
 
 #### 陆金所
 - 简介：投资理财、信贷等服务的首家网络投融资平台
